@@ -9,5 +9,5 @@
 void __attribute__ ((constructor)) premain()
 {
 	printf("You are beat! and yet, you must allow,\n");
-	printf("I Bore my house upon my back!\n");
+	printf("I bore my house upon my back!\n");
 }
